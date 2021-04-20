@@ -11,7 +11,8 @@ namespace GitTestProject1
 	{
 		static void Main(string[] args)
 		{
-			MessageBox.Show("Message box from master.", "Main branch caption");
+			MessageBox.Show("Message box from master. Other user edited message", "Main branch caption");
+			
 		}
 	}
 }
