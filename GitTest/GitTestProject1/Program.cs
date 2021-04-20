@@ -17,7 +17,7 @@ namespace GitTestProject1
 		}
 		static void AnotherMessage()
 		{
-			MessageBox.Show("added feature 1, and fixed some bugs.", "Caption");
+			MessageBox.Show("Convert feature 1 to feature 1'.", "Caption");
 		}
 	}
 }
