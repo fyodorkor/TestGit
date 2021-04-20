@@ -18,6 +18,8 @@ namespace GitTestProject1
 		static void AnotherMessage()
 		{
 			MessageBox.Show("added feature 1, and fixed some bugs.", "Caption");
+
+			MessageBox.Show("Fix feature 1 in main", "Caption");
 		}
 	}
 }
