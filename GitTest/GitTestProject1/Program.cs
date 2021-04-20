@@ -19,5 +19,10 @@ namespace GitTestProject1
 		{
 			MessageBox.Show(m, "Bug fixes in release.");
 		}
+
+		static void custWOW()
+		{
+
+		}
 	}
 }
