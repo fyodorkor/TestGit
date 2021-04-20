@@ -21,5 +21,8 @@ namespace GitTestProject1
 
 			MessageBox.Show("Fix feature 1 in main", "Caption");
 		}
+		static void someFunction()
+		{
+		}
 	}
 }
