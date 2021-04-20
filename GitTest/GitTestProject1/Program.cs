@@ -12,12 +12,12 @@ namespace GitTestProject1
 		static void Main(string[] args)
 		{
 			MessageBox.Show("Message box from master branch. Other user edited message", "Main branch caption");
-			AnotherMessage();
+			AnotherMessage("This is release message");
 			
 		}
-		static void AnotherMessage()
+		static void AnotherMessage(string m)
 		{
-			MessageBox.Show("added feature 1, and fixed some bugs.", "Caption");
+			MessageBox.Show(m, "Caption");
 		}
 	}
 }
