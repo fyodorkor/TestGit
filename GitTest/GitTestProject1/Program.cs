@@ -17,7 +17,7 @@ namespace GitTestProject1
 		}
 		static void AnotherMessage(string m)
 		{
-			MessageBox.Show(m, "Caption");
+			MessageBox.Show(m, "Bug fixes in release.");
 		}
 	}
 }
