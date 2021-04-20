@@ -19,5 +19,10 @@ namespace GitTestProject1
 		{
 			MessageBox.Show("added feature 1, and fixed some bugs.", "Caption");
 		}
+
+		static void custWOW()
+		{
+
+		}
 	}
 }
