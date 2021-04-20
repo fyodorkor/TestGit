@@ -23,5 +23,10 @@ namespace GitTestProject1
 		static void someFunction()
 		{
 		}
+
+		static void custWOW()
+		{
+
+		}
 	}
 }
