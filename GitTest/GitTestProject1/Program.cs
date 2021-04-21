@@ -17,7 +17,7 @@ namespace GitTestProject1
 		}
 		static void AnotherMessage(string m)
 		{
-			MessageBox.Show(m, "Bug fixes in release.");
+			MessageBox.Show("Convert feature 1 to feature 1'.", "Caption");
 		}
 
 		static void custWOW()
