@@ -18,6 +18,10 @@ namespace GitTestProject1
 		static void AnotherMessage(string m)
 		{
 			MessageBox.Show("Convert feature 1 to feature 1'.", "Caption");
+			MessageBox.Show("Fix feature 1 in main", "Caption");
+		}
+		static void someFunction()
+		{
 		}
 
 		static void custWOW()
